@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
     "NAME"    => "Bio::Prospect",
-    "VERSION" => "1.03",
+    "VERSION" => "1.04",
     "PMLIBDIRS" => [ "Bio/Prospect" ],
     "PREREQ_PM" => {
       'Bio::Annotation::Collection' => '0', 'Bio::Tools::IUPAC' => '0',
